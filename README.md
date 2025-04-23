@@ -2,4 +2,4 @@
 
 # 🔥News
 
-- Our paper is accepted by Neurocomputing'25  
+- Our paper is accepted by **Neurocomputing'25**  
