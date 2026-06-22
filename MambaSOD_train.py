@@ -89,7 +89,7 @@ def train(train_loader, model, optimizer, epoch,save_path):
             loss2 = CE(s2, gts)
             loss3 = CE(s3, gts)
             loss4 = CE(s4, gts)
-            loss5 = CE(s4, gts)
+            loss5 = CE(s5, gts)
             loss = loss1+loss2+loss3+loss4+loss5
             loss.backward()
 
